@@ -1,6 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/science-project-twitch-banner_23-2150894772.jpg?t=st=1716658967~exp=1716662567~hmac=41dac4f9e6c7edc182229b7914c5fdb465045899373a8802c104d99c2a580fb2&w=1060)]
 <h1 align="center">Hi 👋, I'm Amara</h1>
 <h3 align="center">👨🏽‍💻Computer Science and Engineering Graduate(IoT)| Mern Stack Developer | Creative Designer | ✨Passionate about startups</h3>
+<h4 align="center">Lost my previous Github Account</h4>
 <img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/122091196?v=4"/>
 
 - 🔭 I’m currently working on **My Life**
