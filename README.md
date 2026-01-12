@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amara</h1>
 <h3 align="center">👨🏽‍💻Computer Science and Engineering Graduate(IoT)| Mern Stack Developer | Creative Designer | ✨Passionate about startups</h3>
 <h4 align="center">Lost my previous Github Account</h4>
-<img align="right" alt="coding" width="400" src="[https://avatars.githubusercontent.com/u/122091196?v=4](https://postimg.cc/DJ4jnKJm)"/>
+<img align="right" alt="coding" width="400" src="https://postimg.cc/DJ4jnKJm"/>
 
 - 🔭 I’m currently working on **My Life**
 
